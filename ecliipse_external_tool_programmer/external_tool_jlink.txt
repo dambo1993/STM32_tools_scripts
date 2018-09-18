@@ -1,0 +1,1 @@
+"${workspace_loc}\${project_name}\Debug\${project_name}.binary" "${workspace_loc}\${project_name}\Debug\${project_name}.bin" "${workspace_loc}\${project_name}\jlink_script"

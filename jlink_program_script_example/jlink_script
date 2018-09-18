@@ -1,0 +1,7 @@
+device STM32F302ZD
+if SWD
+speed 4000
+loadfile "C:\uc\test\systicktest.hex"
+r
+g
+q

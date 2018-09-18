@@ -1,0 +1,1 @@
+-P ${workspace_loc}\${project_name}\Debug\${project_name}.hex -V -Rst
